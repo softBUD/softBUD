@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
 <div>🙋‍♀️Hi! there🙋‍</div>
 <br>
 <div>
@@ -25,11 +26,23 @@ Here are some ideas to get you started:
   <div>hye young Lee</div></div>
 <br>
 <br>
+<br>
+<div>🎶used Frameworks🎶</div>
+<br>
+<div>
+<img src="https://img.shields.io/badge/React-46178F?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-46178F?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-BE95FF?style=flat-square&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-8669AE?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-7C4EC4?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-94399E?style=flat-square&logo=Express&logoColor=white"/>
+  
+</div>
+<br>
+<br>
+<br>
 <div>💜git status💜</div>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=softBUD&count_private=true&custom_title=softBUD's Git&&theme=material-palenight"/>
-
-<div>🍇Skills🍇</div>
+<br>
+<br>
+<br>
+<div>🍇language🍇</div>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=softBUD&layout=compact&theme=material-palenight"/>
-
+<div>
