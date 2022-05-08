@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FsoftBUD%2F&count_bg=%237719AA&title_bg=%237719AA&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 </div>
 <br>
-<div>Junior frontend developer 
-  <div>hye young Lee</div></div>
+  <div>I'm hye young Lee</div></div>
 <br>
 <br>
 <br>
