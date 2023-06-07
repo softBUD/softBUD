@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <div>🎶used Frameworks🎶</div>
 <br>
 <div>
-<img src="https://img.shields.io/badge/React-46178F?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-46178F?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-BE95FF?style=flat-square&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-8669AE?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-7C4EC4?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-94399E?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-#DB7093?style=flat-square&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-46178F?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-46178F?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-BE95FF?style=flat-square&logo=Bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-8669AE?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-7C4EC4?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-94399E?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-DB7093?style=flat-square&logo=Express&logoColor=white"/>
   
 </div>
 <br>
