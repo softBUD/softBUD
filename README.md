@@ -58,8 +58,6 @@
 ## 📫 연락하기
 
 - Email: chevimpala21@gmail.com
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/your-link](#) <!-- 실제 링크로 교체해주세요 -->
 
 ---
 
